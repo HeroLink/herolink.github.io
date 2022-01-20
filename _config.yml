@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Link Chen"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Be healthy. Be happy. Be diligent. Be creative. Be yourself!"
+  bio              : "When you find someone who's iridescent, nothing will ever compare."
   location         : "China"
   email            : 
   links:
@@ -118,6 +118,9 @@ author:
     - label: "Weibo"
       icon: "fab fa-fw fa-weibo"
       url: "https://weibo.com/u/5971930396"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://space.bilibili.com/33514662"
 
 # Site Footer
 footer:
@@ -131,6 +134,9 @@ footer:
     - label: "Weibo"
       icon: "fab fa-fw fa-weibo"
       url: "https://weibo.com/u/5971930396"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://space.bilibili.com/33514662"
 
 
 # Reading Files
