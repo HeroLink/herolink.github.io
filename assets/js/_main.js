@@ -133,4 +133,10 @@ $(document).ready(function() {
       $(this).append(anchor);
     }
   });
+  
+  addBackToTop({
+    backgroundColor: '#fff',
+    innerHTML: 'Back to Top',
+    textColor: '#333'
+  });
 });

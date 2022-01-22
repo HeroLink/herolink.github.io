@@ -5,3 +5,7 @@
 _asset_bundler_cache
 _site
 Gemfile.lock
+
+# node.js
+node_modules
+package-lock.json
