@@ -19,8 +19,8 @@ title: "Linux Note"
 3. 目录中的文件夹数量，不含子目录，`ls -l [dir] | grep "^d" | wc -l`
 4. 目录中的文件夹数量，包含子目录，`ls -lR [dir] | grep "^d" | wc -l`
 5. `-R, --recursive list subdirectories recursively`
-2. "^-": 匹配文件，"^d": 匹配目录
+2. `^-` 匹配文件，`^d` 匹配目录
 
-3. `man wc`: print newline, word, and byte counts for each file
-4. wc -l 统计输出信息的行数
+3. `man wc` print newline, word, and byte counts for each file
+4. `wc -l` 统计输出信息的行数
 
