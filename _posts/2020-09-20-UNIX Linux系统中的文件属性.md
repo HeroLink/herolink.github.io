@@ -12,6 +12,7 @@ tags:
 
 <img referrerPolicy="no-referrer" src="https://img2020.cnblogs.com/blog/1560524/202009/1560524-20200920110509024-806515355.png" alt="1">
 
+`-l` long listing format，第2列为硬链接数量，第3列为owner，第4列为group，第5列为size，第6列为date time，第7列为name
 
 我们可以看到有不同类型的文件，第一列字段表示文件的属性，比如最后一个<code>-rwxr-xr-x</code>，那么这个字段的含义是什么呢，引用《The Linux Command Line》中的话：
 

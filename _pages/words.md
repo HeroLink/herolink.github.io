@@ -498,3 +498,638 @@ n.套装; 坐标
 # curve
 
 曲线
+
+# dairy
+
+牛奶的
+
+# damp
+
+潮湿的
+
+# daring
+
+大胆的
+
+# decay
+
+腐烂；衰败
+
+# deceit
+
+欺骗
+
+# deceive
+
+欺骗
+
+# decent
+
+正派的
+
+# deck
+
+甲板
+
+# deer
+
+鹿
+
+# defect
+
+缺点
+
+# delegation
+
+代表团
+
+# democracy
+
+民主
+
+# dense
+
+稠密的
+
+# density
+
+密集
+
+# drive 
+
+取得
+
+# descend
+
+下降
+
+# desirable
+
+可取的
+
+# despise
+
+鄙视
+
+# detect
+
+侦察
+
+# devil
+
+魔鬼
+
+# devise
+
+设计
+
+# dew
+
+露水
+
+# dialect
+
+方言
+
+# diameter
+
+直径
+
+# dictate
+
+命令；听写
+
+# dim
+
+昏暗的
+
+# dirt 
+
+土
+
+# discard
+
+丢弃
+
+# discharge
+
+释放，解雇，卸货
+
+# discipline
+
+n.训练; 纪律; 自制力; 行为准则; （尤指大学的）学科
+
+v.训练; 惩罚; 自我约束
+
+# disclose
+
+揭开
+
+# disguise
+
+隐瞒
+
+# dishonor
+
+（票据的）拒付; 侮辱; 丢脸; 丢脸的事
+
+拒付; 侮辱; 奸污; 使丢脸
+
+# disposal
+
+丢掉，销毁
+
+# dispose
+
+去掉
+
+# dispute
+
+争论
+
+# dissolve
+
+溶解; 解散; 解除，终止; 消除
+
+# distress
+
+苦恼
+
+# ditch
+
+沟
+
+# dorm
+
+宿舍
+
+# dose
+
+剂量，一剂
+
+# downward
+
+向下的
+
+# drift
+
+漂流
+
+# drought
+
+干旱
+
+# drown
+
+溺死
+
+# dull
+
+枯燥的
+
+# dump
+
+哑的
+
+# dump
+
+倾倒
+
+# dwelling
+
+住所
+
+# dye
+
+染色
+
+# elaborate
+
+精心的
+
+# elastic
+
+松紧带;有弹性的; 灵活的
+
+# elbow
+
+肘，扶手，推挤
+
+# elementary
+
+基本的
+
+# eliminate
+
+消灭
+
+# elsewhere
+
+在别处
+
+# enclose
+
+围住
+
+# endure
+
+忍受
+
+# enforce
+
+实施，加强，强制
+
+# enlarge
+
+扩大
+
+# equation
+
+方程，
+
+# equivalent
+
+等量的
+
+# era
+
+时代
+
+# erect
+
+建立，竖直的
+
+# evaporate
+
+蒸发
+
+# exaggerate
+
+夸大
+
+# exceed
+
+超出
+
+# exceedingly
+
+极端的
+
+# exclaim
+
+呼喊
+
+# exclusively
+
+专门地
+
+# excursion
+
+短途旅行
+
+# execute
+
+执行
+
+# executive
+
+行政的，主管
+
+# exert
+
+尽力运用
+
+# extension
+
+扩充，伸展
+
+# extensive
+
+广泛的
+
+# exterior
+
+外部的
+
+# external
+
+外部的
+
+# faculty
+
+系部，
+
+# Fahrenheit
+
+华氏度
+
+# faint
+
+微弱的
+
+# fame
+
+名声
+
+# famine
+
+饥荒
+
+# fasten
+
+扣紧
+
+# fatal
+
+致命的
+
+# fatigue
+
+疲劳
+
+# feasible
+
+可行的
+
+# feeble
+
+虚弱无力的
+
+# fertile
+
+肥沃的
+
+# fertilize
+
+施肥
+
+# ftertilizer
+
+肥料
+
+#  filter
+
+过滤
+
+# fleet
+
+舰队
+
+# flesh
+
+肉
+
+# flock
+
+群
+
+# flour
+
+面粉
+
+# flourish
+
+繁荣
+
+# flush
+
+冲刷
+
+# folk
+
+家属
+
+# foremost
+
+最初的
+
+# formation
+
+形成
+
+# formular
+
+公式
+
+# fraction
+
+分数
+
+# fragment
+
+碎片
+
+# freight
+
+货物
+
+# frost
+
+冻霜
+
+# frown
+
+皱眉
+
+# fruitful
+
+富有成效的; 富饶的
+
+# furious
+
+狂怒的
+
+# furnace
+
+熔炉，火炉
+
+# furnish
+
+供应
+
+# gaseous
+
+气体的
+
+# gasp
+
+喘息
+
+# gauge
+
+ 尺度，标准; ）测量; 确定容量
+
+# gaze
+
+凝视
+
+# generator
+
+发电机
+
+# germ
+
+微生物
+
+# glide
+
+滑动
+
+# glimpse
+
+一瞥
+
+# glitter
+
+闪烁
+
+# gloomy
+
+黑暗的
+
+# goodness
+
+美德
+
+# goose
+
+鹅
+
+# governor
+
+州长，统治者
+
+# gown
+
+长袍
+
+# gracious
+
+有礼貌的
+
+# grammatical
+
+语法上的
+
+# grave
+
+严重的
+
+# greenhouse
+
+温室
+
+# grieve
+
+悲痛
+
+# grind
+
+磨碎
+
+# grip
+
+握紧
+
+# groan
+
+呻吟
+
+# gross
+
+总的，总共; 全部 ；毛的; 严重的; 令人不快的; 粗鲁的
+
+# gulf
+
+海湾
+
+# halt
+
+停止
+
+# handkerchief
+
+手帕
+
+# hare
+
+野兔
+
+# harness
+
+
+
+# harsh
+
+
+
+# hasten
+
+
+
+# haste
+
+
+
+# hasty
+
+
+
+# hatred
+
+
+
+# hawk
+
+
+
+# hay
+
+
+
+# hazard
+
+
+
+# headquarters
+
+
+
+# heap
+
+
+
+# hedge
+
+
+
+# heel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

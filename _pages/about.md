@@ -1,6 +1,7 @@
 ---
+title: "About Me"
 permalink: /about/
-title: "About"
+layout: splash
 ---
 
 # 关于我
