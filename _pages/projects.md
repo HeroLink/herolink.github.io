@@ -10,9 +10,8 @@ author_profile: true
 
 [![regexper](https://github-readme-stats.vercel.app/api/pin/?username=herolink&repo=regexper)](https://github.com/herolink/regexper)
 
-# Minimal-mistakes-template
+# herolink.github.io
 
-1. [usage](https://herolink.github.io/minimal-mistakes-template/)
+1. [usage](https://herolink.github.io/)
 
-[![minimal-mistakes-template](https://github-readme-stats.vercel.app/api/pin/?username=herolink&repo=minimal-mistakes-template)](https://github.com/herolink/minimal-mistakes-template)
-
+[![minimal-mistakes-template](https://github-readme-stats.vercel.app/api/pin/?username=herolink&repo=herolink.github.io)](https://github.com/herolink/herolink.github.io)

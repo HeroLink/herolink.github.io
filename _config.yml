@@ -275,11 +275,11 @@ defaults:
       type: posts
     values:
       layout: single
-      classes: wide
+      # classes: wide
       toc: true
       toc_label: "Content"
       toc_sticky: true
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: false
       share: false
@@ -289,5 +289,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
