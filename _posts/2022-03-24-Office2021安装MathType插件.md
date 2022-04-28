@@ -1,3 +1,11 @@
+---
+categories:
+  - Computer Science
+  - Others
+tags:
+  - Tool
+---
+
 # Office2021安装MathType插件
 
 1. MathType版本7.4.8
