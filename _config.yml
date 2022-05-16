@@ -9,6 +9,7 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+github: [metadata]
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
@@ -115,9 +116,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HeroLink"
-    - label: "Weibo"
-      icon: "fab fa-fw fa-weibo"
-      url: "https://weibo.com/u/5971930396"
     - label: "Bilibili"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/33514662"
@@ -131,9 +129,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/HeroLink"
-    - label: "Weibo"
-      icon: "fab fa-fw fa-weibo"
-      url: "https://weibo.com/u/5971930396"
     - label: "Bilibili"
       icon: "fab fa-fw fa-youtube"
       url: "https://space.bilibili.com/33514662"
